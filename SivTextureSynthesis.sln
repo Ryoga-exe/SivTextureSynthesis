@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SivTextureSynthesis", "SivTextureSynthesis\SivTextureSynthesis.vcxproj", "{41ACC8E2-5D73-4505-A202-610DFA265627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41ACC8E2-5D73-4505-A202-610DFA265627}.Debug|x64.ActiveCfg = Debug|x64
+		{41ACC8E2-5D73-4505-A202-610DFA265627}.Debug|x64.Build.0 = Debug|x64
+		{41ACC8E2-5D73-4505-A202-610DFA265627}.Release|x64.ActiveCfg = Release|x64
+		{41ACC8E2-5D73-4505-A202-610DFA265627}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B05BF3F-39C8-430D-B25D-2365F05704CC}
+	EndGlobalSection
+EndGlobal
