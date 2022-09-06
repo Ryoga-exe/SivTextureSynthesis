@@ -2,7 +2,7 @@
  #include "TextureSynthesis.hpp"
 
 void Main() {
-    Image input(U"example/text3.gif");
+    Image input(U"sample/pic1.jpg");
     Texture inputTexture(input);
 
     Stopwatch sw(StartImmediately::Yes);
