@@ -5,8 +5,6 @@ void Main() {
     Image input(U"sample/pic1.jpg");
     Texture inputTexture(input);
 
-    Stopwatch sw(StartImmediately::Yes);
-
     TextureSynthesis synthesis(input, 150, 150, 11);
     DynamicTexture outputTexture;
 
