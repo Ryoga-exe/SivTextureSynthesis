@@ -1,5 +1,12 @@
 # SivTextureSynthesis
 
+This project implements Texture Synthesis with [OpenSiv3D v0.6.5](https://siv3d.github.io/).
+
+## ToDo - not implemented yet
+
+- Patch-based texture synthesis
+- Deep Learning and Neural Network Approaches
+
 ## References
 
 - https://github.com/goldbema/TextureSynthesis
