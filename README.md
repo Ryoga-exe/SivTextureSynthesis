@@ -2,6 +2,8 @@
 
 This project implements Texture Synthesis with [OpenSiv3D v0.6.5](https://siv3d.github.io/).
 
+[Video (on YouTube)](https://youtu.be/LLiuAcWNz2c)
+
 ## ToDo - not implemented yet
 
 - Patch-based texture synthesis
